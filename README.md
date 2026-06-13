@@ -7,3 +7,5 @@ Like games or applications or blogs I may create in the future.
 # theNTX: Updates
 This works based on my readiness. Things will take time to be unveiled.
 Cool features are on their way, I just happen to not live entirely on the computer. The other half of my time is spent on sleeping.
+# theNTX: Branding
+theNTX is ca64's community. It is the ONLY official community of ca64.
